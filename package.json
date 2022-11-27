@@ -1,0 +1,11 @@
+{
+  "name": "thunder",
+  "version": "1.0.0",
+  "description": "Snehil's first react framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snehil Kumar",
+  "license": "ISC"
+}
