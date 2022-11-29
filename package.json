@@ -4,8 +4,7 @@
   "description": "Snehil's first React Tooling",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve --open"
   },
   "author": "Snehil Kumar",
   "license": "ISC",

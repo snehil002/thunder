@@ -29,10 +29,6 @@ module.exports = {
       directory : path.join(__dirname, "public/"),
     },
     port: 3000,
-    devMiddleware: {
-       publicPath: "http://localhost:3000/dist/",
-    },
-    hot: "only",
   },
-  plugins: [new webpack.HotModuleReplacementPlugin()]
+  devtool: 'inline-source-map',
 };
