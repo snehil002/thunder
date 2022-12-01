@@ -4,7 +4,8 @@
   "description": "Snehil's first React Tooling",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --open"
+    "start": "webpack serve --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
   },
   "author": "Snehil Kumar",
   "license": "ISC",
@@ -18,7 +19,8 @@
     "style-loader": "^3.3.1",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^4.11.1",
+    "webpack-merge": "^5.8.0"
   },
   "dependencies": {
     "react": "^18.2.0",
