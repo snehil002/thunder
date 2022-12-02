@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkthunder=self.webpackChunkthunder||[]).push([[508],{508:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});var u=t(294);function a(){return u.createElement(u.Fragment,null,u.createElement("h2",null,"Lazily Loaded React Component"))}}}]);
-//# sourceMappingURL=508.bundle.js.map
