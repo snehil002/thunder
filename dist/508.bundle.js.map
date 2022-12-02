@@ -1,0 +1,1 @@
+{"version":3,"file":"508.bundle.js","mappings":"2IAEe,aACb,OACE,gCACE,2DAGN,C","sources":["webpack://thunder/./src/lazy.js"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function() {\r\n  return (\r\n    <>\r\n      <h2>Lazily Loaded React Component</h2>\r\n    </>\r\n  );\r\n};"],"names":[],"sourceRoot":""}
